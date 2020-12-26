@@ -1,0 +1,4 @@
+while(money > 0){
+    buyvoucher();
+    money--;
+}
