@@ -1,0 +1,12 @@
+while (you are not logged in)
+{
+if (PC is off) {
+turn PC on
+}
+login to your account
+setup your working directory
+Run Emacs to write and save a C program
+Run gcc with appropriate parameters to compile the program
+Run your executable program
+
+}
